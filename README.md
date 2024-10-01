@@ -3,3 +3,6 @@
    2         go to the directory          cd react-tailwind-css-starter-pack-main
    3        install all the packages by giving the command 
              npm install 
+ 4     final command    npm start        to start the sever 
+
+         
